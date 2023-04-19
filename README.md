@@ -1,1 +1,3 @@
 # JavaPracticalApplications
+This repository contains a program on Newton's Method of Calculus, using which we find a root of a quintic equation(highest power of 5).
+The other program is about a famous Veritasium Youtube Channel Video where Derek beautifully explained the Collatz' Conjecture. In this program you input a number and the computer runs a series of loops and prints all the iterations until the number becomes 0. It also displays the maximum and minimum values attained. The conjecture: if a number x is odd, output is 3x+1, if x is even, output is x/2. The conjecture proposes that this always converges to 1 after a finite number of iterations.
